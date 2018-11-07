@@ -1,0 +1,48 @@
+body{
+	background: url("../images/bg.jpeg"); no repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background size: cover;
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+h1{
+	color: Brown;
+	font-size:  40px;
+	font-weight: normal;
+	margin-bottom:0;
+	justify-content: center
+}
+
+h2{
+	color: Black;
+	font-size: 23px;
+	font-weight: lighter;
+	margin-top: 0;
+	justify-content: center
+
+}
+.bio {
+	color: Gray;
+	font-size: 14px;
+	border-style: none;
+	border-color: gray;
+	padding: 10px;
+
+}
+
+.me{
+	height: 225px;
+	border-radius: 5%;
+	border-style: solid;
+	border-color: pink;
+	margin-top: 40px;
+}
+
+#container {
+	width: 450px;
+	margin: 0 auto;
+	text-align: center;
+
+}
