@@ -1,0 +1,68 @@
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#background {
+	background-color: #000000;
+}
+
+.container-fluid {
+/*	position: fixed;*/
+}
+
+.bg-image {
+  background: url("../images/landingpage.jpg") no-repeat center center fixed;
+/*  padding-top: 12%;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.jumbotron {
+	height: 650px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 80px 10px;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+	font-family: 'Neuton', serif;
+	margin-bottom: 25px;
+}
+
+h2 {
+	text-align: center;
+	color: #FFFF66;
+	font-family: 'Neuton', serif;
+ }
+
+hr {
+ 	border: 3px solid white;
+ 	margin-bottom: 30px;
+}
+
+.lead {
+	margin-top: 230px;
+
+}
+.btn-landing {
+	margin-bottom: 20px;
+
+}
+
+.container-about {
+	width: 1315px;
+	height: 768px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	margin-top: 5px;
+}
+
+.col-about,
+.col-details {
+	margin-top: 20px;
+	height: 700px;
+}
